@@ -8,4 +8,4 @@ Barto book
   using a maze-solving problem.
 
 - [Value learning](https://github.com/shirazkn/reinforcement-learning/blob/master/code/horse_notebook.ipynb)
-  using a made-up (horse chasing) example.
+  using a made-up (horse chasing) example.˜
